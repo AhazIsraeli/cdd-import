@@ -1,0 +1,1 @@
+{"objects":[{"environments":[],"applications":[],"name":"REST EP","kind":"Endpoint","type":"REST Endpoint","parameters":{"baseUrl":"url","useProxy":"false","username":"username"},"plugin":"REST/2.1"}]}
