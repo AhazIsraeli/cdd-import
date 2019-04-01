@@ -23,7 +23,7 @@
 			],
 			"release": "Release A/1.0",
 			"approvalGate": "MANUAL",
-			"skipTasksWithUnchangedApplications": "AAAXXX",
+			"skipTasksWithUnchangedApplications": "${skip}",
 			"isApprovalRequired": "false",
 			"name": "Phase A",
 			"kind": "Phase"
@@ -31,6 +31,6 @@
 	],
   "parameters": [{
       "name": "skip",
-      "value": "TrUe"
+      "value": "What"
   }]
 }
