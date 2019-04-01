@@ -1,0 +1,36 @@
+{
+	"objects": [
+		{
+			"application": "Local|Sports",
+			"name": "1.0",
+			"kind": "ApplicationVersion"
+		},
+		{
+			"version": "1.0",
+			"runOnCreation": "false",
+			"ownerParties": [
+				"superuser@ca.com"
+			],
+			"applicationVersions": [
+				"Local|Sports/1.0"
+			],
+			"name": "Release A",
+			"kind": "Release"
+		},
+		{
+			"environments": [
+				"Terner"
+			],
+			"release": "Release A/1.0",
+			"approvalGate": "MANUAL",
+			"skipTasksWithUnchangedApplications": "${skip}",
+			"isApprovalRequired": "false",
+			"name": "Phase A",
+			"kind": "Phase"
+		}
+	],
+  "parameters": [{
+      "name": "skip",
+      "value": "TrUe"
+  }]
+}
