@@ -23,7 +23,7 @@
 			],
 			"release": "Release A/1.0",
 			"approvalGate": "MANUAL",
-			"skipTasksWithUnchangedApplications": "${skip}",
+			"skipTasksWithUnchangedApplications": "${skioop}",
 			"isApprovalRequired": "false",
 			"name": "Phase A",
 			"kind": "Phase"
