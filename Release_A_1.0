@@ -14,7 +14,7 @@
         "applicationVersions": [
             "Local|Sports/1.0"
         ],
-        "markAsDonePhaseName": "Phase A",
+        "markAsDonePhaseName": "${productionPhase}",
         "name": "Release A",
         "kind": "Release"
     },
@@ -31,5 +31,9 @@
     "parameters": [{
         "name": "skip",
         "value": "Ofer"
+    },
+    {
+        "name": "productionPhase",
+	"value": "Phase A"
     }]
 }
