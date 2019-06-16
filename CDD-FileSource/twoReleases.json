@@ -1,0 +1,30 @@
+{
+	"objects": [
+		{
+			"version": "1.0",
+			"applicationVersions": [
+				"Local|Sports"
+			],
+			"ownerParties": [
+				"superuser@ca.com"
+			],
+			"runOnCreation": false,
+			"markAsDonePhaseName": "",
+			"name": "Release Y",
+			"kind": "Release"
+		},
+    {
+			"version": "1.0",
+			"applicationVersions": [
+				"Local|Sports"
+			],
+			"ownerParties": [
+				"superuser@ca.com"
+			],
+			"runOnCreation": false,
+			"markAsDonePhaseName": "",
+			"name": "Release Z",
+			"kind": "Release"
+		}
+	]
+}
