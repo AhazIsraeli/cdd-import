@@ -1,0 +1,5 @@
+{"objects": [
+    {"name": "Sports", "kind": "Application"},
+    {"applications": ["Local|Sports"], "name": "Court","kind": "Environment"},
+    {"applications": ["Local|Sports"], "name": "Stadium", "kind": "Environment"}
+]}
