@@ -1,0 +1,17 @@
+{
+	"objects": [
+		{
+			"version": "1.0",
+			"applicationVersions": [
+				"Local|Sports"
+			],
+			"ownerParties": [
+				"unknown@broadcom.com"
+			],
+			"runOnCreation": false,
+			"markAsDonePhaseName": "",
+			"name": "Release A",
+			"kind": "Release"
+		}
+	]
+}
