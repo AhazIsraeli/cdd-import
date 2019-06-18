@@ -5,11 +5,6 @@
 			"applicationVersions": [
 				"Local|Sports"
 			],
-			"ownerParties": [
-				"superuser@ca.com"
-			],
-			"runOnCreation": false,
-			"markAsDonePhaseName": "",
 			"name": "Release A",
 			"kind": "Release"
 		}
